@@ -108,6 +108,7 @@ vocabulary_trainer_EXTERNAL_OBJECTS =
 vocabulary_trainer: CMakeFiles/vocabulary_trainer.dir/src/main.cpp.o
 vocabulary_trainer: CMakeFiles/vocabulary_trainer.dir/src/vocabulary.cpp.o
 vocabulary_trainer: CMakeFiles/vocabulary_trainer.dir/build.make
+vocabulary_trainer: /opt/homebrew/lib/libraylib.dylib
 vocabulary_trainer: CMakeFiles/vocabulary_trainer.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/yusakru/documents/vocabulary_trainer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable vocabulary_trainer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vocabulary_trainer.dir/link.txt --verbose=$(VERBOSE)

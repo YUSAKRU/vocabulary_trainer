@@ -3,8 +3,8 @@
 
 #include <string>
 #include <vector>
-#include <unordered_map>
 
+// Kelimeleri ve yanlış yapılan sayıları takip eden veri yapısı
 struct Word {
     std::string english;
     std::string turkish;
